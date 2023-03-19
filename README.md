@@ -1,13 +1,14 @@
 ---
 
-<h3 align="center">Discord Server Cloner - By LAW Tutorials</h3>
-<p align="center"> A selfbot that copies any Discord server without any permissions. </p>
+<h3 align="center">Discord LecrianBOT Source Codes</h3>
+<p align="center"> I coded the bot, unauthorized sharing is strictly prohibited. </p>
 
 ---
 
 
 ## Credits:
 
-The original author of the script is [777PlayZ](https://github.com/777PlayZ "777PlayZ"). The code isn't protected by a license, I have the right to copy and share it.
+*Thron#0001*
+*Vartel#0000*
 
-**19/03/2023**
+**18/05/2022**
