@@ -13,4 +13,4 @@ The original author of the script is [777PlayZ](https://github.com/777PlayZ "777
 - #### **Why did I copy the repo instead of sharing the author's?**
 In case the author changes his original repo and puts a malicious program, I prefer to take the responsibility to copy the code.
 
-**05/12/2021.**
+**19/03/2023**
