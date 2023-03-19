@@ -5,10 +5,6 @@
 
 ---
 
-## Video Tutorial:
-<table><tr><td><a href="https://www.youtube.com/watch?v=ogifU7weUjA"><img width="300px" src="https://i.imgur.com/rOshltd.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ogifU7weUjA">How to Clone any Discord server? (Discord Selfbot)</a><br/>Dec 6, 2021</td></tr></table>
-
 
 ## Credits:
 
