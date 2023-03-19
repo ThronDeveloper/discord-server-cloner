@@ -1,6 +1,6 @@
 ---
 
-<h3 align="center">Discord Server Cloner - By LAW - Tutorials</h3>
+<h3 align="center">Discord Server Cloner - By LAW Tutorials</h3>
 <p align="center"> A selfbot that copies any Discord server without any permissions. </p>
 
 ---
