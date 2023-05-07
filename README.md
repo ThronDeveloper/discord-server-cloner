@@ -1,13 +1,13 @@
 ---
 
 <h3 align="center">Discord Server Cloner</h3>
-<p align="center"> A selfbot that copies any Discord server without any permissions. </p>
+<p align="center"> Herhangi bir Discord sunucusunu herhangi bir izin almadan kopyalayan bir selfbot. </p>
 
 ---
 
 
 ## Credits:
 
-The original author of the script is [777PlayZ](https://github.com/777PlayZ "777PlayZ"). The code isn't protected by a license, I have the right to copy and share it.
+Script'i yazan kişi [777PlayZ](https://github.com/777PlayZ "777PlayZ"). Bu kod bir lisansla korunmuyor, kopyalayıp paylaşma hakkım var.
 
 **19/03/2023**
